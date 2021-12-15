@@ -17,4 +17,5 @@ git branch -M main
 
 git push -u origin main 
 
-sempre lembrar de add o aquivos na branch e depois realizar o commit
+Sempre lembrar de add o aquivos na branch e depois realizar o commit
+e por ultimo realizar um push pra origin, conforme pass 3.
